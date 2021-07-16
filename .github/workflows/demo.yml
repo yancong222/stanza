@@ -1,7 +1,7 @@
 name: Demo
 on: [push]
 jobs:
-  Run-Mistral-Test-Args:
+  Run-Stanza-Tests:
     runs-on: self-hosted
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
