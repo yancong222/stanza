@@ -22,6 +22,7 @@ jobs:
           # set up for tests
           source stanza/tests/setup_test.sh
           # run tests
+          echo "Running tests..."
           pytest stanza/tests/test_depparse.py 
           
       - run: echo "🍏 This job's status is ${{ job.status }}."
