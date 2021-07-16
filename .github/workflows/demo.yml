@@ -15,7 +15,7 @@ jobs:
         run: |
           # set up environment
           bash
-          . /home/stanzabuild/miniconda3/etc/profile.d/conda.sh
+          . /opt/conda/etc/profile.d/conda.sh
           # install from stanza repo being evaluated
           pwd
           pip install -e .
