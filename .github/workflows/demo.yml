@@ -1,5 +1,5 @@
 name: Demo
-on: [push]
+on: [push, pull_request]
 jobs:
   Run-Mistral-Test-Args:
     runs-on: ubuntu-latest
