@@ -1,4 +1,4 @@
-name: Demo
+name: Run Stanza Tests
 on: [push]
 jobs:
   Run-Stanza-Tests:
@@ -13,6 +13,15 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: Run demo
         run: |
-          # set up test environment
-          echo "Here is where all of the stanza tests would run!"
+          # set up environment
+          bash
+          . /home/stanzabuild/miniconda3/etc/profile.d/conda.sh
+          # install from stanza repo being evaluated
+          pwd
+          pip install -e .
+          # set up for tests
+          source stanza/tests/setup_test.sh
+          # run tests
+          pytest stanza/tests/test_depparse.py 
+          
       - run: echo "🍏 This job's status is ${{ job.status }}."
