@@ -1,0 +1,4774 @@
+यह	PRP	B-NP	o	o	o
+इंडियाना	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+के	PSP	I-NP	o	o	o
+शहरों	NN	B-NP	o	o	o
+की	PSP	I-NP	o	o	o
+सूची	NN	B-NP	o	o	o
+है	VM	B-VGF	o	o	o
+और	CC	B-CCP	o	o	o
+साथ	NST	B-NP	o	o	o
+ही	RP	I-NP	o	o	o
+जनसंख्या	NN	B-NP	o	o	o
+अनुमान	NN	B-NP	o	o	o
+भी	RP	I-NP	o	o	o
+दिये	VM	B-VGF	o	o	o
+गये	VAUX	I-VGF	o	o	o
+4.	NNPC	I-VGF	o	o	o
+]	SYM	B-NP	o	o	o
+इंडियाना	NNP	I-NP	B-LOCATION	B-PLACE	B-CITY
+,	SYM	I-NP	o	o	o
+1	NNPC	B-NP	o	o	o
+,	SYM	I-NP	o	o	o
+2000	NNPC	B-NP	o	o	o
+1	NNPC	I-NP	o	o	o
+,	SYM	I-NP	o	o	o
+2004	NNP	B-NP	o	o	o
+30	QC	B-NP	o	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+,	SYM	I-NP	o	o	o
+{	SYM	BLK	o	o	o
+.	SYM	B-BLK	o	o	o
+
+!	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+शहर	NN	B-NP	o	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+जुलाई	NNP	B-NP	B-MONTH	o	o
+1	NNP	B-NP	o	o	o
+पर	PSP	I-NP	o	o	o
+जनसंख्या	NN	B-NP	o	o	o
+अनुमान	NN	B-NP	o	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	I-NP	o	o	o
+जनगढ़ना	VM	B-VGNF	o	o	o
+वर्ष	NN	B-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-NP	o	o	o
+!	SYM	I-NP	o	o	o
+2004	NNP	I-NP	B-YEAR	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	B-NP	o	o	o
+2003	NNP	I-NP	B-YEAR	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	B-NP	o	o	o
+2002	NNP	I-NP	B-YEAR	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	B-NP	o	o	o
+2001	NNP	I-NP	B-YEAR	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	B-NP	o	o	o
+2000	NNP	I-NP	B-YEAR	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	B-NP	o	o	o
+2000	NNP	I-NP	B-YEAR	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+एलेक्जेन्ड्रिया	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,977	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,053	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,124	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,191	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,253	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,260	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+एंडरसन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+57,942	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+58,422	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+58,846	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+59,180	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+59,686	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+59,734	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अंगोला	NNPC	B-NP	B-LOCATION	B-PLACE	B-NATION
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,795	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,719	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,623	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,590	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,520	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,344	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+एटिका	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,441	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,472	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,505	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,506	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,558	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,491	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+औबर्न	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,661	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,488	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,337	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,194	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,136	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,074	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+औरोरा	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,043	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,016	NN	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,993	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,982	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,974	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,965	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बेट्सविल	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,365	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,330	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,306	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,113	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,063	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,033	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बैडफर्ड	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,570	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,599	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,616	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,688	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,748	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,768	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बीच	NST	B-NP	B-LOCATION	B-PLACE	B-CITY
+ग्रोव	NNC	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,236	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,403	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,573	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,786	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,852	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,880	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बर्न	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,168	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,162	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,148	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,148	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,154	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,150	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बिकनैल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,292	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,291	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,309	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,329	NN	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,369	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,378	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ब्लूमिंगटन	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+68,779	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+69,148	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+69,462	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+70,016	NN	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+70,906	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+69,291	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ब्लफटन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,457	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,499	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,538	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,522	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,557	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,536	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बूनविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,830	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,891	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,827	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,815	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,840	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,834	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ब्राज़ील	NN	B-NP	B-LOCATION	B-PLACE	B-NATION
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,244	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,167	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,069	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,067	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,032	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,188	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बटलर	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,718	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,718	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,710	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,713	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,728	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,725	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कैनलटन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,171	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,177	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,188	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,199	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,206	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,209	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कारमल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+58,198	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+56,324	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+54,516	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+52,900	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+51,295	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+37,733	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+चार्ल्सटाउन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,971	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,971	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,961	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,054	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,122	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,993	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+क्लिंटन	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,911	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,942	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,983	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,041	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,114	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,126	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कोलम्बिया	NNP	B-NP	B-LOCATION	B-PLACE	B-NATION
+शहर	NN	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,764	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,707	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,545	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,470	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,410	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,077	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कोलम्बस	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,251	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,074	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+38,900	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,153	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,167	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,059	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कोनर्सविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,445	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,539	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,694	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,849	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,038	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,411	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कोविंगटन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,500	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,520	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,537	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,541	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,584	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,565	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+क्रौफर्डविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,088	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,082	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,170	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,084	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,114	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,243	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+क्राउन	NNC	B-NP	B-LOCATION	B-PLACE	B-CITY
+पौइन्ट	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+21,822	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+21,108	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+20,551	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+20,238	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,810	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,806	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+डेकाटूर	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,506	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,492	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,451	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,460	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,543	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,528	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+डेल्फी	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,983	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,035	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,022	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,038	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,036	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,015	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+डन्कर्क	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,641	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,639	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,635	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,644	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,658	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,646	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ईस्ट	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+शिकागो	NNP	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+31,237	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+31,549	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+31,772	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,064	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,340	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,414	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+एल्खार्ट	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+51,878	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+51,778	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+51,922	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+52,259	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+52,490	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+51,874	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+एलवुड	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,263	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,377	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,504	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,594	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,717	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,737	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इवान्सविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+117,156	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+118,120	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+119,115	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+119,707	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+121,149	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+121,582	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+फोर्ट	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+वेन	NNPC	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+219,351	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+219,872	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+220,181	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+220,250	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+220,618	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+205,727	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+फ्रैंकफर्ट	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+16,441	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+16,471	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+16,596	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+16,674	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+16,698	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+16,662	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+फ्रैंकलिन	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+21,201	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+20,969	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+20,562	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+20,214	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,621	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,463	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गैरैट	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,767	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,769	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,755	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,767	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,810	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,803	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गैरी	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+99,516	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+100,028	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+100,711	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+101,645	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+102,517	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+102,746	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गैस	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+शहर	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,868	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,922	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,801	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,859	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,914	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,940	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गोशन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+30,555	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+30,003	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+29,719	NNP	B-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+29,865	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+29,643	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+29,383	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ग्रीनकासल	NNC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,011	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,992	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,913	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,954	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,904	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,880	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ग्रीनडेल	NNC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,345	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,332	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,305	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,305	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,296	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,296	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ग्रीनफील्ड	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+16,048	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,810	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,578	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+15,036	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,719	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,600	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ग्रीन्सबर्ग	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,462	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,374	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,223	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,154	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,250	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,260	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ग्रीनवुड	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+40,813	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,623	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+38,958	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+37,653	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+36,642	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+36,037	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हैमंड	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+79,985	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+80,744	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+81,327	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+82,104	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+82,848	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+83,048	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हार्टफर्ड	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+शहर	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,702	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,754	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,755	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,765	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,903	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,928	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+होबार्ट	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+27,510	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+27,032	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+26,441	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+26,045	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+25,494	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+25,363	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हंटिंगबर्ग	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,890	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,839	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,819	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,809	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,678	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,598	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हंटिंगटन	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,040	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,194	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,292	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,268	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,406	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,450	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इंडियानापोलिस	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+784,242	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+784,462	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+783,028	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+784,055	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+781,800	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+781,870	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जेसनविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,507	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,497	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,483	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,490	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,494	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,490	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जैसपर	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,533	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,276	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,095	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,035	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,995	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,100	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जैफरसनविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,640	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,516	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,249	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+27,948	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+27,893	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+27,362	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जोन्सबोरो	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,792	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,815	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,837	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,862	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,882	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,887	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कैंडलविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,995	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,994	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,037	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,103	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,982	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,616	NN	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नौक्स	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,607	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,574	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,551	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,540	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,718	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,721	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कोकोमो	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+46,070	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+46,225	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+46,294	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+46,474	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+46,546	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+46,113	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ला	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+पोर्टे	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+20,982	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+21,131	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+21,296	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+21,481	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+21,609	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+21,621	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लफायत	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+59,753	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+59,659	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+59,590	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+60,124	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+60,517	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+56,397	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लेक	NNC	B-NP	B-LOCATION	B-PLACE	B-CITY
+स्टेशन	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,657	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,774	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,848	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,905	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,937	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,948	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लौरेंस	NNC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+40,878	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+40,536	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+40,222	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,814	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,068	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+38,915	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लौरेंसबर्ग	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,738	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,726	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,699	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,701	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,695	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,685	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लेबनान	NNP	B-NP	B-LOCATION	B-PLACE	B-NATION
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,560	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,412	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,276	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,074	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,228	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+14,222	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लिगोनिअर	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,407	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,297	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,290	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,311	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,269	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,357	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लिंटन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,819	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,795	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,763	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,778	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,784	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,774	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लोगन्सपोर्ट	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,350	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,348	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,349	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,631	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,701	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,684	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लूगूटी	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,712	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,708	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,723	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,722	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,734	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,741	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मैडीसन	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,335	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,250	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,170	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,111	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,009	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,004	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मेरियन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+30,830	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+31,118	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+31,262	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+31,534	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+31,727	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+31,320	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मार्टिन्सविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,739	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,644	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,600	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,557	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,692	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,698	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मिशिगन	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+शहर	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,179	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,344	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,534	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,743	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,884	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,900	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मिशावाका	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+48,385	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+48,396	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+48,091	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+48,088	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+46,963	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+46,557	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मिचेल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,648	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,673	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,646	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,632	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,599	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,567	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मौंटिसैलो	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,549	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,571	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,642	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,691	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,707	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,723	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मोंटपेलिअर	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,869	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,883	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,885	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,886	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,921	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,929	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+माउन्ट	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+वरनौन	NNPC	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,320	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,335	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,403	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,415	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,493	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,478	NN	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मंसी	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+67,166	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+67,593	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+68,062	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+68,591	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+67,917	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+67,430	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नपानी	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,840	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,786	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,739	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,744	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,734	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,710	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नया	JJ	B-NP	B-LOCATION	B-PLACE	B-CITY
+अलबनी	NNPC	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+36,877	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+37,130	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+37,474	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+37,755	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+37,836	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+37,603	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नया	JJ	B-NP	B-LOCATION	B-PLACE	B-CITY
+कैसल	NNPC	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,944	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,993	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,034	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,142	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+19,272	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,780	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नया	JJ	B-NP	B-LOCATION	B-PLACE	B-CITY
+हेवन	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,638	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,588	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,483	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,413	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,298	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,406	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नोबल्सविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+35,438	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+33,403	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+32,283	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+30,750	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+29,199	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,590	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+उत्तरी	JJ	B-NP	B-LOCATION	B-PLACE	B-CITY
+वरनौन	NNPC	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,454	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,425	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,463	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,499	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,542	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,515	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ओकलैंड	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+शहर	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,604	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,592	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,566	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,567	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,579	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,588	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पेरु	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,856	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,923	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,991	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,006	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+13,015	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,994	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पीटर्सबर्ग	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,542	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,539	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,546	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,545	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,561	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,570	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+प्लाईमाउथ	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,728	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,566	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,431	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+10,188	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,923	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+9,840	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पोर्टेज	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+35,269	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+34,843	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+34,475	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+33,863	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+33,578	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+33,496	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पोर्टलैंड	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,249	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,287	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,319	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,371	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,427	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,437	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+प्रिंसटन	NNC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,659	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,527	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,458	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,471	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,236	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+8,175	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रेन्सेलेअर	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,209	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,203	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,140	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,119	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,145	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,294	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रिचमंड	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+37,943	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+38,236	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+38,472	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+38,658	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,065	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+39,124	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+राइसिंग	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+सन	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,435	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,449	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,468	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,466	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,473	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,470	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रोचेस्टर	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,424	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,413	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,463	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,454	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,429	NN	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,414	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रौकपोर्ट	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,092	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,116	NN	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,143	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,176	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,166	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+2,160	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रशविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,785	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,819	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,830	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,898	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,971	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,995	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सलेम	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,417	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,386	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,388	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,262	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,224	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,172	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+स्कौटस्बर्ग	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,034	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,046	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,042	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,071	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,061	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+6,040	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सीमोर	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,704	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,510	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,387	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,293	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,168	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,101	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शैल्बीविल	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,848	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,839	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,949	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,101	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,037	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+17,951	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+साउथ	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+बैंड	NNC	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+105,494	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+105,746	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+106,327	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+106,808	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+107,802	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+107,789	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+साउथ	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+पोर्ट	NNPC	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,752	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,773	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,793	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,826	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,845	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,852	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सलिवैन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,576	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,609	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,622	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,620	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,612	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,617	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+टेल	NNC	B-NP	B-LOCATION	B-PLACE	B-CITY
+शहर	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,698	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,712	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,763	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,818	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,833	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+7,845	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+टेरे	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+हौते	VM	B-VGF	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+57,224	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+58,189	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+58,590	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+58,917	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+59,575	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+59,614	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+टिपटन	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,337	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,320	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,350	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,341	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,349	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,251	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+यूनियन	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+शहर	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,480	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,513	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,553	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,585	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,617	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+3,622	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वल्पराइसो	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,750	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,583	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,344	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+27,969	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+27,717	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+27,428	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+विनसेन	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,105	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,076	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,570	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,629	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,662	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+18,701	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वाबाश	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,342	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,376	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,482	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,579	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,735	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,743	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वार्सौ	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,672	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,713	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,527	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,533	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,560	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+12,415	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वाशिंगटन	NNP	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,304	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,286	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,263	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,285	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,370	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+11,380	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पश्चिमी	JJ	B-NP	B-LOCATION	B-PLACE	B-CITY
+लफायत	NN	I-NP	I-LOCATION	I-PLACE	I-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,609	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,840	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,664	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,231	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,667	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+28,778	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वाइटिंग	NNC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,936	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,977	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,018	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,070	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,123	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,137	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+विनचेस्टर	NN	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,856	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,901	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+4,965	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,009	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,052	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+5,037	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वुडबर्न	NNPC	B-NP	B-LOCATION	B-PLACE	B-CITY
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,631	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,625	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,612	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,603	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,585	QC	B-BLK	B-COUNT	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+1,579	NNP	B-NP	B-COUNT	o	o
+.	SYM	I-NP	o	o	o
+

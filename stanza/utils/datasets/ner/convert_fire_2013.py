@@ -15,10 +15,12 @@ import glob
 import os
 import random
 
+
 def normalize(entity):
     if entity == 'o':
         return "O"
     return entity
+
 
 def convert_fileset(output_csv_file, filenames):
     # first, read the sentences from each data file
@@ -46,8 +48,13 @@ def convert_fileset(output_csv_file, filenames):
                     raise ValueError("Found %d pieces instead of the expected 6" % len(pieces))
                 if pieces[3] == 'o' and (pieces[4] != 'o' or pieces[5] != 'o'):
                     raise ValueError("Inner NER labeled but the top layer was O")
-                fout.write("%s\t%s\n" % (pieces[0], normalize(pieces[3])))
+                elif pieces[4] == 'o' and pieces[5] != 'o':
+                    raise ValueError("Inner NER labeled but preceding layer was O")
+                # fout.write("%s\t%s\n" % (pieces[0], normalize(pieces[3])))
+                fout.write("%s\t%s,%s,%s\n" %
+                           (pieces[0], normalize(pieces[3]), normalize(pieces[4]), normalize(pieces[5])))
             fout.write("\n")
+
 
 def convert_fire_2013(input_path, train_csv_file, dev_csv_file, test_csv_file):
     filenames = glob.glob(os.path.join(input_path, "*"))
@@ -59,25 +66,30 @@ def convert_fire_2013(input_path, train_csv_file, dev_csv_file, test_csv_file):
     dev_cutoff = int(0.9 * len(filenames))
 
     train_files = filenames[:train_cutoff]
-    dev_files   = filenames[train_cutoff:dev_cutoff]
-    test_files  = filenames[dev_cutoff:]
+    dev_files = filenames[train_cutoff:dev_cutoff]
+    test_files = filenames[dev_cutoff:]
 
     assert len(train_files) > 0
     assert len(dev_files) > 0
     assert len(test_files) > 0
 
     convert_fileset(train_csv_file, train_files)
-    convert_fileset(dev_csv_file,   dev_files)
-    convert_fileset(test_csv_file,  test_files)
-    
+    convert_fileset(dev_csv_file, dev_files)
+    convert_fileset(test_csv_file, test_files)
+
+
 if __name__ == '__main__':
     random.seed(1234)
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_path', type=str, default="/home/john/extern_data/ner/FIRE2013/hindi_train",  help="Directory with raw files to read")
-    parser.add_argument('--train_file', type=str, default="/home/john/stanza/data/ner/hi_fire2013.train.csv", help="Where to put the train file")
-    parser.add_argument('--dev_file',   type=str, default="/home/john/stanza/data/ner/hi_fire2013.dev.csv",   help="Where to put the dev file")
-    parser.add_argument('--test_file',  type=str, default="/home/john/stanza/data/ner/hi_fire2013.test.csv",  help="Where to put the test file")
+    parser.add_argument('--input_path', type=str, default="hindi_train",
+                        help="Directory with raw files to read")
+    parser.add_argument('--train_file', type=str, default="hi_fire2013.train.csv",
+                        help="Where to put the train file")
+    parser.add_argument('--dev_file', type=str, default="hi_fire2013.dev.csv",
+                        help="Where to put the dev file")
+    parser.add_argument('--test_file', type=str, default="hi_fire2013.test.csv",
+                        help="Where to put the test file")
     args = parser.parse_args()
 
     convert_fire_2013(args.input_path, args.train_file, args.dev_file, args.test_file)
