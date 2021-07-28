@@ -38,7 +38,7 @@ def normalize(e1, e2, e3):
         return e1
     if e1[2:] in ('DATE', 'TIME', 'YEAR', 'MONTH'):
         string = e1[:2] + 'DATE/TIME'
-        return e1
+        return string
 
     return "O"
 
