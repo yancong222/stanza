@@ -14,6 +14,7 @@ import argparse
 import glob
 import os
 import random
+import re
 
 def normalize(entity):
     if entity == 'o':
@@ -46,6 +47,15 @@ def convert_fileset(output_csv_file, filenames):
                     raise ValueError("Found %d pieces instead of the expected 6" % len(pieces))
                 if pieces[3] == 'o' and (pieces[4] != 'o' or pieces[5] != 'o'):
                     raise ValueError("Inner NER labeled but the top layer was O")
+                ner1 = pieces[3]
+                ner2 = pieces[4]
+                ner3 = pieces[5]
+                if ner1[2:] in ["ARTIFACT",
+                                "COUNT",
+                                "DISTANCE",
+                                "ENTERTAINMENT",
+                                "FACILITIES",
+                                ""]:
                 fout.write("%s\t%s\n" % (pieces[0], normalize(pieces[3])))
             fout.write("\n")
 

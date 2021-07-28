@@ -1,0 +1,6392 @@
+{	SYM	BLK	o	o	o
+{	SYM	BLK	o	o	o
+ज्ञानसन्दूक	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+फ़िल्म	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+संबंधित	JJ	B-NP	o	o	o
+लोग	NN	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+चित्र	NN	B-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+1932	NNP	B-NP	B-YEAR	o	o
+.	SYM	I-NP	o	o	o
+
+06	NNP	B-NP	B-MONTH	o	o
+.	SYM	I-NP	o	o	o
+
+अभिनेता	NN	B-NP	o	o	o
+के	PSP	I-NP	o	o	o
+रूप	PSP	I-NP	o	o	o
+निशांत	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+,	SYM	I-NP	o	o	o
+मंथन	NN	B-NP	o	o	o
+और	CC	B-CCP	o	o	o
+भूमिका	NN	B-NP	o	o	o
+जैसी	PSP	I-NP	o	o	o
+फ़िल्मों	NN	B-NP	o	o	o
+से	PSP	I-NP	o	o	o
+अपनी	PRP	B-NP	o	o	o
+पहचान	NN	B-NP	o	o	o
+बनाने	VM	B-VGNN	o	o	o
+वाले	PSP	I-VGNN	o	o	o
+श्री	NNPC	I-VGNN	B-PERSON	B-INDIVIDUAL	B-TITLE
+पुरी	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+ने	PSP	I-NP	o	o	o
+बाद	NST	B-NP	o	o	o
+में	PSP	I-NP	o	o	o
+खलनायक	NN	B-NP	o	o	o
+के	PSP	I-NP	o	o	o
+रुप	NN	B-NP	o	o	o
+में	PSP	I-NP	o	o	o
+काफी	QF	B-JJP	o	o	o
+प्रसिद्धी	JJ	I-JJP	o	o	o
+पायी	VM	B-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+इस	DEM	B-NP	o	o	o
+भूमिका	NN	I-NP	o	o	o
+का	PSP	I-NP	o	o	o
+ऐसा	DEM	B-NP	o	o	o
+असर	NN	I-NP	o	o	o
+हुआ	VM	B-VGF	o	o	o
+कि	CC	B-CCP	o	o	o
+उन्होंने	PRP	B-NP	o	o	o
+हमेशा	RB	B-RBP	o	o	o
+अपना	PRP	B-NP	o	o	o
+सिर	NN	I-NP	o	o	o
+मुँडा	NN	B-NP	o	o	o
+कर	VM	B-VGNN	o	o	o
+रहने	VAUX	I-VGNN	o	o	o
+का	PSP	I-VGNN	o	o	o
+फ़ैसला	NN	B-NP	o	o	o
+किया	VM	B-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+इस	DEM	B-NP	o	o	o
+कारण	NN	I-NP	o	o	o
+खलनायक	NN	B-NP	o	o	o
+की	PSP	I-NP	o	o	o
+भूमिका	NN	B-NP	o	o	o
+भी	RP	I-NP	o	o	o
+उन्हें	PRP	B-NP	o	o	o
+काफ़ी	QF	B-NP	o	o	o
+मिली	VM	B-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+व्यवसायिक	JJ	B-NP	o	o	o
+फिल्मों	NN	I-NP	o	o	o
+में	PSP	I-NP	o	o	o
+प्रमुखता	NN	B-NP	o	o	o
+से	PSP	I-NP	o	o	o
+काम	NN	B-NP	o	o	o
+करने	VM	B-VGNN	o	o	o
+के	PSP	I-VGNN	o	o	o
+बावज़ूद	PSP	I-VGNN	o	o	o
+समांतर	JJ	B-JJP	o	o	o
+या	CC	B-CCP	o	o	o
+अलग	JJ	B-JJP	o	o	o
+हट	VM	B-VGNF	o	o	o
+कर	VM	B-VGNF	o	o	o
+बनने	VM	B-VGNN	o	o	o
+वाली	PSP	I-VGNN	o	o	o
+फ़िल्मों	NN	B-NP	o	o	o
+के	PSP	I-NP	o	o	o
+प्रति	PSP	I-NP	o	o	o
+उनका	PRP	B-NP	o	o	o
+प्रेम	NN	I-NP	o	o	o
+बना	VM	B-VGF	o	o	o
+रहा	VAUX	I-VGF	o	o	o
+और	CC	B-CCP	o	o	o
+वे	PRP	B-NP	o	o	o
+इस	DEM	B-NP	o	o	o
+तरह	NN	I-NP	o	o	o
+की	PSP	I-NP	o	o	o
+फ़िल्मों	NN	B-NP	o	o	o
+से	PSP	I-NP	o	o	o
+भी	RP	I-NP	o	o	o
+जुड़े	VM	B-VGF	o	o	o
+रहे	VAUX	I-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+फिर	RB	B-RBP	o	o	o
+आया	VM	B-VGNF	o	o	o
+खलनायक	NN	B-NP	o	o	o
+की	PSP	I-NP	o	o	o
+भूमिकाओं	NN	B-NP	o	o	o
+से	PSP	I-NP	o	o	o
+हटकर	VM	B-VGNF	o	o	o
+चरित्र	NNC	B-NP	o	o	o
+अभिनेता	NN	I-NP	o	o	o
+की	PSP	I-NP	o	o	o
+भूमिकाओं	NN	B-NP	o	o	o
+वाले	PSP	I-NP	o	o	o
+अमरीश	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+पुरी	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+का	PSP	I-NP	o	o	o
+दौर	NN	B-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+और	CC	B-CCP	o	o	o
+इस	DEM	B-NP	o	o	o
+दौर	NN	I-NP	o	o	o
+में	PSP	I-NP	o	o	o
+भी	RP	I-NP	o	o	o
+उन्होंने	PRP	B-NP	o	o	o
+अपनी	PRP	B-NP	o	o	o
+अभिनय	NN	I-NP	o	o	o
+कला	NN	B-NP	o	o	o
+का	PSP	I-NP	o	o	o
+जादू	NN	B-NP	o	o	o
+कम	QF	B-NP	o	o	o
+नहीं	NEG	B-VGF	o	o	o
+होने	VM	I-VGF	o	o	o
+दिया	VAUX	I-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+0	QC	B-BLK	o	o	o
+;	SYM	I-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+-	SYM	B-NP	o	o	o
+!	SYM	I-NP	o	o	o
+वर्ष	NN	I-NP	o	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	I-NP	o	o	o
+फ़िल्म	NN	I-NP	o	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	I-NP	o	o	o
+चरित्र	NN	I-NP	o	o	o
+!	SYM	I-NP	o	o	o
+!	SYM	B-NP	o	o	o
+टिप्पणी	NNP	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2006	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कच्ची	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+सड़क	NNC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2005	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मुम्बई	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+एक्सप्रेस	NNP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2005	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+किस्ना	WQ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+भैरो	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+सिंह	NNP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पुलिस	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+फोर्स	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मुझसे	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+शादी	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+करोगी	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+एतराज़	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रंजीत	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+रॉय	NNP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+देव	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शिवाजीराव	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+भंडारकर	VM	B-VGF	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गर्व	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इंस्पेक्टर	NN	B-NP	B-PERSON	o	o
+समर	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हलचल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अंगार	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+चन्द	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अब	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+तुम्हारे	PRP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+हवाले	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+वतन	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+साथियों	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लक्ष्य	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ब्रिगेडियर	NNC	B-NP	B-PERSON	o	o
+जनरल	NNC	I-NP	I-PERSON	o	o
+गौतम	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+पुरी	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+टार्ज़न	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+द	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+वण्डर	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+कार	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2004	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वो	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+तेरा	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+नाम	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+था	VM	B-VGF	o	o	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2003	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+खुशी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2003	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दिल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+परदेसी	JJ	B-JJP	I-ENTERTAINMENT	I-CINEMA	o
+हो	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+गया	VAUX	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	VAUX	I-VGF	o	o	o
+]	SYM	I-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2003	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सूर्या	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2003	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+द	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+हीरो	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2003	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जाल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मेजर	NNC	B-NP	B-PERSON	B-INDIVIDUAL	o
+अमरीश	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+कौल	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2003	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आउट	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+ऑफ	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+कन्ट्रोल	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2002	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शरारत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2002	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रिश्ते	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+यशपाल	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+चौधरी	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2002	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बधाई	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+हो	VM	B-VGNF	I-ENTERTAINMENT	I-CINEMA	o
+बधाई	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2002	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बाबा	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तांत्रिक	JJ	B-JJP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-JJP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2002	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जानी	JJC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+दुश्मन	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2001	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नायक	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2001	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ग़दर	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2001	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मुझे	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+कुछ	PRP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+कहना	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+है	VM	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	I-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2001	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+यादें	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जगदीश	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+कुमार	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+मल्होत्रा	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2001	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+चोरी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+चोरी	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+चुपके	RB	B-RBP	I-ENTERTAINMENT	I-CINEMA	o
+चुपके	RB	B-RBP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-RBP	o	o	o
+]	SYM	I-RBP	o	o	o
+.	SYM	I-RBP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2001	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सेंसर	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2001	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ज़ुबेदा	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सुलेमान	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+सेठ	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2001	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ऑन	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+विंग्स	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+ऑफ	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+फायर	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2000	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ढ़ाई	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+अक्षर	NNPC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+प्रेम	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+के	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2000	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शहीद	JJ	B-JJP	B-ENTERTAINMENT	B-CINEMA	o
+ऊधम	NNPC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+सिंह	NNP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2000	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बादल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ए	NNPC	B-NP	o	o	o
+सी	RP	I-NP	o	o	o
+पी	NNPC	I-NP	o	o	o
+रंजीत	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+2000	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मोहब्बतें	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1999	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+काला	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+साम्राज्य	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1999	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बादशाह	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1999	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तक्षक	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नाहर	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1999	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ताल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1999	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आरज़ू	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दयाशंकर	VM	B-VGF	B-ENTERTAINMENT	B-CINEMA	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1999	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गैर	JJC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1999	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लाल	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+बादशाह	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1999	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ज़ुल्मी	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बलराज	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+दत्त	NNP	B-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1999	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जय	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+हिन्द	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1998	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+चाची	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+420	QC	B-NP	B-COUNT	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1998	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सलाखें	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1998	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+श्याम	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+घनश्याम	NNP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1998	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बारूद	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1998	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+डोली	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+सजा	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+के	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+रखना	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1998	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+झूठ	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+बोले	VM	B-VGNF	I-ENTERTAINMENT	I-CINEMA	o
+कौआ	NNPC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+काटे	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1998	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+धूँढते	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+रह	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+जाओगे	VAUX	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1998	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+चाइना	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+गेट	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1997	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+परदेश	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1997	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कोयला	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1997	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इतिहास	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बलवंत	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1997	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+निर्णायक	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1997	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तराज़ू	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1997	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+विरासत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1997	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हिमालय	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+पुत्र	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1997	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ढाल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1997	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+महंत	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1996	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सरदारी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+बेगम	NNPC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1996	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+काला	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+पानी	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	VAUX	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मिर्ज़ा	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+ख़ान	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1996	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+घातक	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1996	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जान	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1996	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बेकाबू	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1996	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+विजेता	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1996	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जीत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गजराज	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+चौधरी	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1996	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दिलजले	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1996	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तू	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+चोर	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+मैं	PRP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+सिपाही	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गजेन्द्र	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गुंडाराज	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पुलिस	NN	B-NP	B-PERSON	o	o
+इंस्पेक्टर	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दिलवाले	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+दुल्हनिया	NNP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+ले	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+जायेंगे	VAUX	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जय	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+विक्रान्ता	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जसवंत	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कर्तव्य	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हकीकत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+करन	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+अर्जुन	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दुर्जन	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ओ	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+डार्लिंग	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+यह	PRP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+है	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+इण्डिया	NNPC	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मैदान	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+-	SYM	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+ए	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+-	SYM	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+जंग	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हलचल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शोभराज	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+प्रेम	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1995	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पापी	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+देवता	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रतन	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+सेठ	NNP	B-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1994	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+एलान	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1994	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+द्रोह	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+काल	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आई	VM	B-VGNF	o	o	o
+जी	NNPC	I-VGNF	o	o	o
+पी	VM	B-VGNF	o	o	o
+पाठक	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1994	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+परमात्मा	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1994	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पहला	QO	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+पहला	QO	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+प्यार	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1994	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+महा	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+शक्तिशाली	JJ	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1994	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तेजस्वनी	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लाला	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+खुराना	VM	B-VGF	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1993	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गर्दिश	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1993	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कुंदन	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शमशेर	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1993	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+संग्राम	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1993	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सूरज	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+का	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+सातवाँ	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+घोड़ा	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1993	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दिव्य	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+शक्ति	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1993	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दामिनी	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1992	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अश्वमेधम	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1992	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+टाइम	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+मशीन	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1992	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वंश	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1992	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तहलका	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1992	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मुस्कुराहट	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1992	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ज़िन्दगी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+एक	QC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+जुआ	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+भल्ला	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1992	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आई	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+लव	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+यू	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1992	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+विश्वात्मा	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1992	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दीवाना	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आदमी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+और	CC	B-CCP	I-ENTERTAINMENT	I-CINEMA	o
+अप्सरा	NNPC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आदित्य	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कोहराम	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मस्त	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+कलंदर	NNP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सौदागर	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इरादा	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शिकारी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+धर्म	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+संकट	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	VM	B-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दलपति	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अज़ूबा	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बेनाम	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+बादशाह	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जिगरवाला	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+फूल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+और	CC	B-CCP	I-ENTERTAINMENT	I-CINEMA	o
+काँटे	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+त्रिनेत्र	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सिंघानिया	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1991	NNPC	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नम्बरी	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+आदमी	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+राना	VM	B-VGF	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+घायल	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बलवंत	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+राय	NNP	B-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हातिमताई	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आज	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+का	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+अर्जुन	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तेजा	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जीने	VM	B-VGNF	B-ENTERTAINMENT	B-CINEMA	o
+दो	QC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मुकद्दर	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+का	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+बादशाह	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तेलुगु	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+फ़िल्म	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दूध	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+का	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+कर्ज़	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रघुवीर	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1990	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+किशन	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+कन्हैया	NNP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जादूगर	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+महाप्रभु	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+जगतसागर	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+चिन्तामणि	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+निगाहें	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तुझे	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+नहीं	NEG	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+छोड़ूँगा	VM	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दो	QC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+कैदी	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+के	NN	B-NP	o	o	o
+के	PSP	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सूर्या	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+फर्ज़	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+की	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+जंग	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बटवारा	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आग	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+से	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+खेलेंगे	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+राम	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+लखन	NNPC	I-NP	I-PERSON	I-INDIVIDUAL	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मिल	VM	B-VGF	B-ENTERTAINMENT	B-CINEMA	o
+गयी	VAUX	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+मंज़िल	NNPC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+मुझे	PRP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	B-VGF	o	o	o
+]	VM	I-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मुज़रिम	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ख़ान	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नफ़रत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+की	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+आँधी	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+त्रिदेव	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हिसाब	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+खून	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+का	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	VM	B-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ज़ुर्रत	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नाइंसाफी	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बिल्ला	VM	B-VGF	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इलाका	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1989	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दाता	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आखिरी	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+पोरतम	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हम	PRP	B-NP	o	o	o
+फ़रिश्ते	NN	B-NP	o	o	o
+नहीं	NEG	B-VGF	o	o	o
+]	VM	I-VGF	o	o	o
+]	VAUX	I-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शहँशाह	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+यतीम	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वारिस	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हमारा	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+खानदान	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मोहब्बत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+के	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+दुश्मन	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शहबाज़	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+ख़ान	NNP	B-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गंगा	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+जमुना	NNP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+सरस्वती	NNP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ठाकुर	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+हंसराज	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रुख़सत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जगदीश	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+चोपड़ा	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मर	VM	B-VGF	B-ENTERTAINMENT	B-CINEMA	o
+मिटेंगे	VM	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अजीत	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कमांडो	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+खून	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+बहा	VM	B-VGNF	I-ENTERTAINMENT	I-CINEMA	o
+गंगा	NNP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+में	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दयावान	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इंस्पेक्टर	NN	B-NP	B-PERSON	o	o
+रतन	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1988	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+साजिश	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इनाम	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+दस	QC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+हज़ार	QC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सड़क	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+छाप	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+प्यार	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+करके	VM	B-VGNF	I-ENTERTAINMENT	I-CINEMA	o
+देखो	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+डांस	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+डांस	NNC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शेर	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+शिवाजी	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मददगार	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दादागिरी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+भानु	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+प्रताप	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दिल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+तुझको	PRP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+दिया	VAUX	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मोहला	VM	B-VGF	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+परम	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+धरम	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लोहा	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हवालात	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मिस्टर	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+इण्डिया	NNP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1987	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जवाब	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+हम	PRP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+देंगे	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सेठ	NNP	B-NP	B-PERSON	o	o
+धनराज	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+एक	QC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+और	QF	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+सिकन्दर	NNC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रिकी	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तमस	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+काँच	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+की	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+दीवार	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+भूप	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+प्यार	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+हो	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+गया	VAUX	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	VAUX	I-VGF	o	o	o
+]	SYM	I-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जाँबाज़	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+राना	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+विक्रम	NNPC	I-NP	I-PERSON	I-INDIVIDUAL	o
+सिंह	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नगीना	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नसीब	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+अपना	PRP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+अपना	PRP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	VM	B-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+भीम	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सल्तनत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+असली	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+नकली	JJ	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दोस्ती	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+दुश्मनी	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+समुन्दर	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आप	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+के	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+साथ	NST	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1986	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मेरा	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+धर्म	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आज	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+के	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+शोले	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बलबीर	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+गुप्ता	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कर्मयुद्ध	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पत्थर	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+दिल	NNPC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मोहब्बत	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+चौधरी	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ज़बरदस्त	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बलराम	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अघात	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+निशान	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तेरी	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+मेहरबानियाँ	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ठाकुर	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+विजय	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पैसा	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+ये	DEM	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+पैसा	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जुगल	VM	B-VGF	B-ENTERTAINMENT	B-CINEMA	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मेरी	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+जंग	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1985	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+फाँसी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+के	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+बाद	NST	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ज़ख्मी	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+शेर	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+झूठा	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+सच	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इंडियाना	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+जोन्स	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+एंड	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+द	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+टेंपल	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+ऑफ	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+डूम	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+इंसाफ	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+कौन	WQ	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+करेगा	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+भानुप्रताप	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+यह	DEM	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+देश	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कसम	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+पैदा	JJ	B-JJP	I-ENTERTAINMENT	I-CINEMA	o
+करने	VM	B-VGNN	I-ENTERTAINMENT	I-CINEMA	o
+वाले	PSP	I-VGNN	I-ENTERTAINMENT	I-CINEMA	o
+की	PSP	I-VGNN	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	B-VGF	o	o	o
+]	VM	I-VGF	o	o	o
+.	SYM	I-VGF	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दुनिया	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बलवंत	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+कालरा	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गंगवा	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+विशेष	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+भूमिका	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आवाज़	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मशाल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पार्टी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+डॉक्टर	NN	B-NP	B-PERSON	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1984	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जागीर	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1983	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अर्द्ध	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+सत्य	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1983	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मंडी	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1983	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हादसा	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1983	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कुली	QF	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1983	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अंधा	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+कानून	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1983	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हीरो	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जॉनी	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+आई	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+लव	NNPC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+यू	NNPC	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ज़ालिम	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मैं	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+इन्तकाम	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+लूँगी	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आदत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+से	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+मजबूर	JJ	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अपना	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+बना	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+लो	VAUX	I-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+विजेता	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शक्ति	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जे	VM	B-VGF	B-PERSON	B-INDIVIDUAL	o
+वर्मा	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गाँधी	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+तहलका	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+विधाता	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1982	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अशान्ति	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1981	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+क्रोधी	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1981	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कलयुग	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+किशन	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+चाँद	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1981	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नसीब	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1980	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+चन	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+परदेसी	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1980	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+दोस्ताना	JJ	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+बलवंत	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+सिंह	NNP	I-NP	I-PERSON	I-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1980	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मान	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+अभिमान	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1980	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+गहराई	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1980	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पत्थर	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+से	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+टक्कर	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1980	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कुर्बानी	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1980	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हम	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+पाँच	QC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+वीर	NNPC	B-NP	B-PERSON	B-INDIVIDUAL	o
+प्रताप	NNPC	I-NP	I-PERSON	I-INDIVIDUAL	o
+सिंह	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1980	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+आक्रोश	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1979	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+लखन	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1979	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हमारे	PRP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+तुम्हारे	PRP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1979	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जानी	JJC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+दुश्मन	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1979	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सावन	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+को	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+आने	VM	B-VGNF	I-ENTERTAINMENT	I-CINEMA	o
+दो	QC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1979	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+नैया	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1978	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कोन्दुरा	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1977	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+भूमिका	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1977	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+पापी	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1977	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+ईमान	NNPC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+धर्म	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+धर्मदयाल	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1977	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+अलीबाबा	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+मरज़ीना	NNP	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+जब्बार	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1976	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मंथन	NNC	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1975	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+निशांत	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1975	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सलाखें	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मास्टर	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1973	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+कादू	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1973	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हिन्दुस्तान	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+की	PSP	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+कसम	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1971	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+शांता	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+!	SYM	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+कोर्ट	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+चालू	JJ	B-JJP	I-ENTERTAINMENT	I-CINEMA	o
+आहे	VM	B-VGF	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-VGF	o	o	o
+]	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+मराठी	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+फ़िल्म	NN	I-NP	I-ENTERTAINMENT	I-CINEMA	o
+.	SYM	I-NP	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1971	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रेशमा	NNP	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+और	CC	B-CCP	I-ENTERTAINMENT	I-CINEMA	o
+शेरा	NNPC	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+रहमत	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+ख़ान	NNP	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1971	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+हलचल	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+सरकारी	JJ	B-NP	B-PERSON	B-INDIVIDUAL	o
+वादी	NN	I-NP	I-PERSON	I-INDIVIDUAL	o
+वकील	NN	B-NP	B-PERSON	B-INDIVIDUAL	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
+1970	NNP	B-NP	B-YEAR	o	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+प्रेम	NN	B-NP	B-ENTERTAINMENT	B-CINEMA	o
+पुजारी	NN	B-NP	I-ENTERTAINMENT	I-CINEMA	o
+]	SYM	I-NP	o	o	o
+]	SYM	I-NP	o	o	o
+.	SYM	I-NP	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+.	SYM	B-BLK	o	o	o
+
+-	SYM	B-BLK	o	o	o
+.	SYM	I-BLK	o	o	o
+
