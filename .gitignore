@@ -169,3 +169,6 @@ _site/
 
 # symlink / directory for data files
 extern_data
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
