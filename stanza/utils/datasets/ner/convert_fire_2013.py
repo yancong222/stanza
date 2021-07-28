@@ -34,7 +34,7 @@ def normalize(e1, e2, e3):
         return e1
     if e1[2:] == 'PERSON' and e2[2:] == 'INDIVIDUAL':
         return e1
-    if e1[2:] == 'LOCATION' and (e2[2:] == 'PLACE' or (e2[2:] == 'ADDRESS' and e3[2:] == 'STNAME')):
+    if e1[2:] == 'LOCATION' and (e2[2:] == 'PLACE'):
         return e1
     if e1[2:] in ('DATE', 'TIME', 'YEAR', 'MONTH'):
         string = e1[:2] + 'DATE/TIME'
