@@ -26,7 +26,9 @@ def normalize(e1, e2, e3):
     if e3 != 'o' and (e1[:2] != e2[:2] or e1[:2] != e3[:2]):
         raise ValueError("Found a token with conflicting position tags %s,%s,%s" % (e1, e2, e3))
 
-    if e1[2:] in ('ORGANIZATION', 'ENTERTAINMENT', 'FACILITIES'):
+    if e1[2:] in ('ORGANIZATION', 'FACILITIES'):
+        return e1
+    if e1[2:] == 'ENTERTAINMENT' and e2[2:] != 'SPORTS' and e2[2:]:
         return e1
     if e1[2:] == 'DISEASE' and e2 == 'o':
         return e1
@@ -36,7 +38,7 @@ def normalize(e1, e2, e3):
         return e1
     if e1[2:] == 'LOCATION' and (e2[2:] == 'PLACE'):
         return e1
-    if e1[2:] in ('DATE', 'TIME', 'YEAR', 'MONTH'):
+    if e1[2:] in ('DATE', 'TIME', 'YEAR'):
         string = e1[:2] + 'DATE/TIME'
         return string
 
