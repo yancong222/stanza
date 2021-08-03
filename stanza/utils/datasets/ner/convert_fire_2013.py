@@ -28,7 +28,7 @@ def normalize(e1, e2, e3):
 
     if e1[2:] in ('ORGANIZATION', 'FACILITIES'):
         return e1
-    if e1[2:] == 'ENTERTAINMENT' and e2[2:] != 'SPORTS' and e2[2:]:
+    if e1[2:] == 'ENTERTAINMENT' and e2[2:] != 'SPORTS' and e2[2:] != 'CINEMA':
         return e1
     if e1[2:] == 'DISEASE' and e2 == 'o':
         return e1
