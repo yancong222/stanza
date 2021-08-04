@@ -91,7 +91,7 @@ def convert_fire_2013(input_path, train_csv_file, dev_csv_file, test_csv_file):
     assert len(test_files) > 0
 
     convert_fileset(train_csv_file, train_files)
-    convert_fileset(dev_csv_file,   train_files)
+    convert_fileset(dev_csv_file,   dev_files)
     convert_fileset(test_csv_file,  test_files)
     
 if __name__ == '__main__':
