@@ -44,7 +44,7 @@ def normalize(e1, e2, e3):
 
     return "O"
 
-def read_fileset(filenames):
+def convert_fileset(output_csv_file, filenames):
     # first, read the sentences from each data file
     sentences = []
     for filename in filenames:
@@ -62,9 +62,6 @@ def read_fileset(filenames):
                     next_sentence.append(line)
             if next_sentence and len(next_sentence) > 1:
                 sentences.append(next_sentence)
-    return sentences
-
-def write_fileset(output_csv_file, sentences)
     with open(output_csv_file, "w") as fout:
         for sentence in sentences:
             for line in sentence:
@@ -82,23 +79,20 @@ def convert_fire_2013(input_path, train_csv_file, dev_csv_file, test_csv_file):
     # won't be numerically sorted... shouldn't matter
     filenames = sorted(filenames)
     random.shuffle(filenames)
+    train_cutoff = int(0.8 * len(filenames))
+    dev_cutoff = int(0.9 * len(filenames))
 
-    sentences = read_fileset(filenames)
+    train_files = filenames[:train_cutoff]
+    dev_files   = filenames[train_cutoff:dev_cutoff]
+    test_files  = filenames[dev_cutoff:]
 
-    train_cutoff = int(0.8 * len(sentences))
-    dev_cutoff = int(0.9 * len(sentences))
+    assert len(train_files) > 0
+    assert len(dev_files) > 0
+    assert len(test_files) > 0
 
-    train_sentences = sentences[:train_cutoff]
-    dev_sentences   = sentences[train_cutoff:dev_cutoff]
-    test_sentences  = sentences[dev_cutoff:]
-
-    assert len(train_sentences) > 0
-    assert len(dev_sentences) > 0
-    assert len(test_sentences) > 0
-
-    convert_fileset(train_csv_file, train_sentences)
-    convert_fileset(dev_csv_file,   dev_sentences)
-    convert_fileset(test_csv_file,  test_sentences)
+    convert_fileset(train_csv_file, train_files)
+    convert_fileset(dev_csv_file,   dev_files)
+    convert_fileset(test_csv_file,  test_files)
     
 if __name__ == '__main__':
     random.seed(1234)
