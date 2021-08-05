@@ -89,9 +89,9 @@ def convert_fire_2013(input_path, train_csv_file, dev_csv_file, test_csv_file):
     train_cutoff = int(0.8 * len(sentences))
     dev_cutoff = int(0.9 * len(sentences))
 
-    train_sentences = sentences[:train_cutoff]
-    dev_sentences   = sentences[train_cutoff:dev_cutoff]
-    test_sentences  = sentences[dev_cutoff:]
+    train_sentences = random.shuffle(sentences[:train_cutoff])
+    dev_sentences   = random.shuffle(sentences[train_cutoff:dev_cutoff])
+    test_sentences  = random.shuffle(sentences[dev_cutoff:])
 
     assert len(train_sentences) > 0
     assert len(dev_sentences) > 0
