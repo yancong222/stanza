@@ -84,6 +84,7 @@ def convert_fire_2013(input_path, train_csv_file, dev_csv_file, test_csv_file):
     random.shuffle(filenames)
 
     sentences = read_fileset(filenames)
+    random.shuffle(sentences)
 
     train_cutoff = int(0.8 * len(sentences))
     dev_cutoff = int(0.9 * len(sentences))
