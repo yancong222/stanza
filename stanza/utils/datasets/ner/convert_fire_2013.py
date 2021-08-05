@@ -96,9 +96,9 @@ def convert_fire_2013(input_path, train_csv_file, dev_csv_file, test_csv_file):
     assert len(dev_sentences) > 0
     assert len(test_sentences) > 0
 
-    convert_fileset(train_csv_file, train_sentences)
-    convert_fileset(dev_csv_file,   dev_sentences)
-    convert_fileset(test_csv_file,  test_sentences)
+    write_fileset(train_csv_file, train_sentences)
+    write_fileset(dev_csv_file,   dev_sentences)
+    write_fileset(test_csv_file,  test_sentences)
     
 if __name__ == '__main__':
     random.seed(1234)
