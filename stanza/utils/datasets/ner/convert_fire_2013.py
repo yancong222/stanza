@@ -64,7 +64,7 @@ def read_fileset(filenames):
                 sentences.append(next_sentence)
     return sentences
 
-def write_fileset(output_csv_file, sentences)
+def write_fileset(output_csv_file, sentences):
     with open(output_csv_file, "w") as fout:
         for sentence in sentences:
             for line in sentence:
