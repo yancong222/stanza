@@ -74,14 +74,17 @@ class LSTMModel(BaseModel, nn.Module):
         self.word_input_size = self.embedding_dim + self.tag_embedding_dim + self.delta_embedding_dim
 
         # TODO: add a max_norm?
-        self.delta_words = sorted(list(words))
-        self.delta_word_map = { word: i+2 for i, word in enumerate(self.delta_words) }
-        assert PAD_ID == 0
-        assert UNK_ID == 1
-        self.delta_embedding = nn.Embedding(num_embeddings = len(self.delta_words)+2,
-                                            embedding_dim = self.delta_embedding_dim,
-                                            padding_idx = 0)
-        self.register_buffer('delta_tensors', torch.tensor(range(len(self.delta_words) + 2), requires_grad=False))
+        if self.delta_embedding_dim > 0:
+            self.delta_words = sorted(list(words))
+            self.delta_word_map = { word: i+2 for i, word in enumerate(self.delta_words) }
+            self.delta_embedding_scale = self.args['delta_embedding_scale']
+            assert PAD_ID == 0
+            assert UNK_ID == 1
+            self.delta_embedding = nn.Embedding(num_embeddings = len(self.delta_words)+2,
+                                                embedding_dim = self.delta_embedding_dim,
+                                                padding_idx = 0)
+
+            self.register_buffer('delta_tensors', torch.tensor(range(len(self.delta_words) + 2), requires_grad=False))
 
         self.rare_words = set(rare_words)
 
@@ -176,9 +179,6 @@ class LSTMModel(BaseModel, nn.Module):
                 for idx, word in enumerate(word_labels):
                     if word in self.rare_words and random.random() < self.args['rare_word_unknown_frequency']:
                         word_labels[idx] = None
-            delta_idx = torch.stack([self.delta_tensors[self.delta_word_map.get(word, UNK_ID)] for word in word_labels])
-
-            delta_input = self.delta_embedding(delta_idx)
 
             try:
                 tag_idx = torch.stack([self.tag_tensors[self.tag_map[word.label]] for word in tagged_words])
@@ -186,8 +186,16 @@ class LSTMModel(BaseModel, nn.Module):
             except KeyError as e:
                 raise KeyError("Constituency parser not trained with tag {}".format(str(e))) from e
 
-            # now of size sentence x input
-            word_input = torch.cat([word_input, delta_input, tag_input], dim=1)
+            if self.delta_embedding_dim > 0:
+                delta_idx = torch.stack([self.delta_tensors[self.delta_word_map.get(word, UNK_ID)] for word in word_labels])
+                delta_input = self.delta_embedding(delta_idx) * self.delta_embedding_scale
+
+                # now of size sentence x input
+                word_input = torch.cat([word_input, delta_input, tag_input], dim=1)
+            else:
+                # now of size sentence x input
+                word_input = torch.cat([word_input, tag_input], dim=1)
+
             # now sentence x hidden_size
             word_input = self.word_to_constituent(word_input)
             word_input = self.nonlinearity(word_input)

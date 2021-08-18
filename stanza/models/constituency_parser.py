@@ -42,6 +42,7 @@ def parse_args(args=None):
 
     parser.add_argument('--tag_embedding_dim', type=int, default=20, help="Embedding size for a tag")
     parser.add_argument('--delta_embedding_dim', type=int, default=100, help="Embedding size for a delta embedding")
+    parser.add_argument('--delta_embedding_scale', type=float, default=1.0, help="Scale the delta embedding by this much")
 
     parser.add_argument('--train_file', type=str, default=None, help='Input file for data loader.')
     parser.add_argument('--eval_file', type=str, default=None, help='Input file for data loader.')
