@@ -20,7 +20,8 @@ def normalize(entity):
         return "O"
     return entity
 
-def convert_fileset(output_csv_file, filenames):
+
+def read_fileset(filenames):
     # first, read the sentences from each data file
     sentences = []
     for filename in filenames:
@@ -38,6 +39,10 @@ def convert_fileset(output_csv_file, filenames):
                     next_sentence.append(line)
             if next_sentence and len(next_sentence) > 1:
                 sentences.append(next_sentence)
+    return sentences
+
+
+def write_fileset(output_csv_file, sentences):
     with open(output_csv_file, "w") as fout:
         for sentence in sentences:
             for line in sentence:
@@ -46,8 +51,9 @@ def convert_fileset(output_csv_file, filenames):
                     raise ValueError("Found %d pieces instead of the expected 6" % len(pieces))
                 if pieces[3] == 'o' and (pieces[4] != 'o' or pieces[5] != 'o'):
                     raise ValueError("Inner NER labeled but the top layer was O")
-                fout.write("%s\t%s\n" % (pieces[0], normalize(pieces[3])))
+                fout.write("%s\t%s\n" % (pieces[0], normalize(pieces[3], pieces[4], pieces[5])))
             fout.write("\n")
+
 
 def convert_fire_2013(input_path, train_csv_file, dev_csv_file, test_csv_file):
     filenames = glob.glob(os.path.join(input_path, "*"))
@@ -55,29 +61,42 @@ def convert_fire_2013(input_path, train_csv_file, dev_csv_file, test_csv_file):
     # won't be numerically sorted... shouldn't matter
     filenames = sorted(filenames)
     random.shuffle(filenames)
-    train_cutoff = int(0.8 * len(filenames))
-    dev_cutoff = int(0.9 * len(filenames))
 
-    train_files = filenames[:train_cutoff]
-    dev_files   = filenames[train_cutoff:dev_cutoff]
-    test_files  = filenames[dev_cutoff:]
+    sentences = read_fileset(filenames)
+    random.shuffle(sentences)
 
-    assert len(train_files) > 0
-    assert len(dev_files) > 0
-    assert len(test_files) > 0
+    train_cutoff = int(0.8 * len(sentences))
+    dev_cutoff = int(0.9 * len(sentences))
 
-    convert_fileset(train_csv_file, train_files)
-    convert_fileset(dev_csv_file,   dev_files)
-    convert_fileset(test_csv_file,  test_files)
-    
+    train_sentences = sentences[:train_cutoff]
+    dev_sentences = sentences[train_cutoff:dev_cutoff]
+    test_sentences = sentences[dev_cutoff:]
+
+    random.shuffle(train_sentences)
+    random.shuffle(dev_sentences)
+    random.shuffle(test_sentences)
+
+    assert len(train_sentences) > 0
+    assert len(dev_sentences) > 0
+    assert len(test_sentences) > 0
+
+    write_fileset(train_csv_file, train_sentences)
+    write_fileset(dev_csv_file, dev_sentences)
+    write_fileset(test_csv_file, test_sentences)
+
+
 if __name__ == '__main__':
     random.seed(1234)
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_path', type=str, default="/home/john/extern_data/ner/FIRE2013/hindi_train",  help="Directory with raw files to read")
-    parser.add_argument('--train_file', type=str, default="/home/john/stanza/data/ner/hi_fire2013.train.csv", help="Where to put the train file")
-    parser.add_argument('--dev_file',   type=str, default="/home/john/stanza/data/ner/hi_fire2013.dev.csv",   help="Where to put the dev file")
-    parser.add_argument('--test_file',  type=str, default="/home/john/stanza/data/ner/hi_fire2013.test.csv",  help="Where to put the test file")
+    parser.add_argument('--input_path', type=str, default="/home/john/extern_data/ner/FIRE2013/hindi_train",
+                        help="Directory with raw files to read")
+    parser.add_argument('--train_file', type=str, default="/home/john/stanza/data/ner/hi_fire2013.train.csv",
+                        help="Where to put the train file")
+    parser.add_argument('--dev_file', type=str, default="/home/john/stanza/data/ner/hi_fire2013.dev.csv",
+                        help="Where to put the dev file")
+    parser.add_argument('--test_file', type=str, default="/home/john/stanza/data/ner/hi_fire2013.test.csv",
+                        help="Where to put the test file")
     args = parser.parse_args()
 
     convert_fire_2013(args.input_path, args.train_file, args.dev_file, args.test_file)
