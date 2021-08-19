@@ -51,7 +51,7 @@ def write_fileset(output_csv_file, sentences):
                     raise ValueError("Found %d pieces instead of the expected 6" % len(pieces))
                 if pieces[3] == 'o' and (pieces[4] != 'o' or pieces[5] != 'o'):
                     raise ValueError("Inner NER labeled but the top layer was O")
-                fout.write("%s\t%s\n" % (pieces[0], normalize(pieces[3], pieces[4], pieces[5])))
+                fout.write("%s\t%s\n" % (pieces[0], normalize(pieces[3])))
             fout.write("\n")
 
 
