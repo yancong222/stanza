@@ -14,14 +14,15 @@ logger = logging.getLogger('stanza')
 
 DEFAULT_CORENLP_URL = os.getenv(
     'CORENLP_URL',
-    "http://nlp.stanford.edu/software/"
+    'https://huggingface.co/stanfordnlp/CoreNLP/resolve'
 )
 DEFAULT_CORENLP_DIR = os.getenv(
     'CORENLP_HOME',
     os.path.join(HOME_DIR, 'stanza_corenlp')
 )
+BACKUP_CORENLP_URL = "http://nlp.stanford.edu/software"
 
-AVAILABLE_MODELS = set(['arabic', 'chinese', 'english', 'english-kbp', 'french', 'german', 'spanish'])
+AVAILABLE_MODELS = set(['arabic', 'chinese', 'english-extra', 'english-kbp', 'french', 'german', 'spanish'])
 
 
 def download_corenlp_models(model, version, dir=DEFAULT_CORENLP_DIR, url=DEFAULT_CORENLP_URL, logging_level='INFO', proxies=None):
@@ -49,9 +50,15 @@ def download_corenlp_models(model, version, dir=DEFAULT_CORENLP_DIR, url=DEFAULT
             f'{model} is currently not supported. '
             f'Must be one of: {list(AVAILABLE_MODELS)}.'
         )
+    if url == DEFAULT_CORENLP_URL:
+        # for example:
+        # https://huggingface.co/stanfordnlp/CoreNLP/resolve/v4.2.2/stanford-corenlp-models-french.jar
+        download_url = f'{url}/v{version}/stanford-corenlp-models-{model}.jar'
+    else:
+        download_url = f'{url}/stanford-corenlp-{version}-models-{model}.jar',
     try:
         request_file(
-            url + f'stanford-corenlp-{version}-models-{model}.jar',
+            download_url,
             os.path.join(dir, f'stanford-corenlp-{version}-models-{model}.jar'),
             proxies
         )
@@ -64,7 +71,7 @@ def download_corenlp_models(model, version, dir=DEFAULT_CORENLP_DIR, url=DEFAULT
         ) from e
 
 
-def install_corenlp(dir=DEFAULT_CORENLP_DIR, url=DEFAULT_CORENLP_URL, logging_level=None, proxies=None):
+def install_corenlp(dir=DEFAULT_CORENLP_DIR, url=DEFAULT_CORENLP_URL, logging_level=None, proxies=None, version="main"):
     """
     A fully automatic way to install and setting up the CoreNLP library 
     to use the client functionality.
@@ -86,8 +93,13 @@ def install_corenlp(dir=DEFAULT_CORENLP_DIR, url=DEFAULT_CORENLP_URL, logging_le
     logger.info(f"Installing CoreNLP package into {dir}...")
     # First download the URL package
     logger.debug(f"Download to destination file: {os.path.join(dir, 'corenlp.zip')}")
+    if url == DEFAULT_CORENLP_URL:
+        url = "{}/{}/stanford-corenlp-latest.zip".format(url, version)
+    else:
+        url = "{}/stanford-corenlp-latest.zip".format(url)
     try:
-        request_file(url + 'stanford-corenlp-latest.zip', os.path.join(dir, 'corenlp.zip'), proxies)
+        request_file(url, os.path.join(dir, 'corenlp.zip'), proxies)
+
     except (KeyboardInterrupt, SystemExit):
         raise
     except Exception as e:
