@@ -2,6 +2,7 @@ import pytest
 
 from stanza.models.constituency import parse_transitions
 from stanza.models.constituency.base_model import SimpleModel
+from stanza.models.constituency.parse_transitions import TransitionScheme
 from stanza.tests import *
 
 pytestmark = [pytest.mark.pipeline, pytest.mark.travis]
@@ -192,6 +193,49 @@ def test_compound_open(model=None):
     assert tree.children[0].children[0].label == 'Unban'
     assert tree.children[1].children[0].label == 'Mox'
     assert tree.children[2].children[0].label == 'Opal'
+
+def test_in_order_open(model=None):
+    if model is None:
+        model = SimpleModel(TransitionScheme.IN_ORDER)
+    state = build_initial_state(model)[0]
+
+    shift = parse_transitions.Shift()
+    assert shift.is_legal(state, model)
+    state = shift.apply(state, model)
+
+    open_vp = parse_transitions.OpenConstituent("VP")
+    assert open_vp.is_legal(state, model)
+    state = open_vp.apply(state, model)
+
+    close_trans = parse_transitions.CloseConstituent()
+    assert close_trans.is_legal(state, model)
+    state = close_trans.apply(state, model)
+
+    open_s = parse_transitions.OpenConstituent("S")
+    assert open_s.is_legal(state, model)
+    state = open_s.apply(state, model)
+
+    # check that root transitions won't happen in the middle of a parse
+    open_root = parse_transitions.OpenConstituent("ROOT")
+    assert not open_root.is_legal(state, model)
+
+    # build (NP (NNP Mox) (NNP Opal))
+    open_np = parse_transitions.OpenConstituent("NP")
+    assert shift.is_legal(state, model)
+    state = shift.apply(state, model)
+    assert open_np.is_legal(state, model)
+    state = open_np.apply(state, model)
+    assert shift.is_legal(state, model)
+    state = shift.apply(state, model)
+    assert close_trans.is_legal(state, model)
+    state = close_trans.apply(state, model)
+
+    assert close_trans.is_legal(state, model)
+    state = close_trans.apply(state, model)
+
+    assert open_root.is_legal(state, model)
+    state = open_root.apply(state, model)
+
 
 def test_close(model=None):
     if model is None:
